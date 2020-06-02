@@ -12,3 +12,9 @@ Thumbs.db
 #########################
 *.pyc
 .ipynb_checkpoints
+.vscode
+
+# Large data files #
+####################
+data/7415_10564_bundle_archive*
+data/*
