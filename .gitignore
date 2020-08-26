@@ -16,5 +16,5 @@ Thumbs.db
 
 # Large data files #
 ####################
-data/7415_10564_bundle_archive*
-data/*
+Chapter_05/data/7415_10564_bundle_archive*
+Chapter_05/data/chapter_05_all_images_dir*
