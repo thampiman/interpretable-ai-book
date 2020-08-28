@@ -52,6 +52,8 @@ conda activate interpretable-ai
        - Guided Grad-CAM
   - [Data](https://github.com/thampiman/interpretable-ai-book/tree/master/Chapter_05/data)
   - [Models](https://github.com/thampiman/interpretable-ai-book/tree/master/Chapter_05/models)
+- Appendix A: PyTorch
+  - [Intro to PyTorch](https://nbviewer.jupyter.org/github/thampiman/interpretable-ai-book/blob/master/Appendix_A/appendix_a_pytorch.ipynb)
 - Chapter 6 (work in progress)
 - Chapter 7 (work in progress)
 - Chapter 8 (work in progress)
