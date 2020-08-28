@@ -1,4 +1,4 @@
-# Interpretable AI - Building Explainable Machine Learning System
+# Interpretable AI - Building Explainable Machine Learning Systems
 
 This repository contains Jupyter notebooks implementing the code samples found in the book [Interpretable AI - Building Explainable Machine Learning Systems](https://www.manning.com/books/interpretable-ai) (Manning Publications). The book features far more content than you will find in these notebooks.
 
