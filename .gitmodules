@@ -1,0 +1,8 @@
+[submodule "Chapter_06/NetDissect-Lite"]
+	path = Chapter_06/NetDissect-Lite
+	url = https://github.com/CSAILVision/NetDissect-Lite
+	branch = master
+[submodule "Chapter_06/tcav"]
+	path = Chapter_06/tcav
+	url = https://github.com/rakhimovv/tcav
+	branch = master
