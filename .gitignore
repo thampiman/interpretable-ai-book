@@ -18,3 +18,6 @@ Thumbs.db
 ####################
 Chapter_05/data/7415_10564_bundle_archive*
 Chapter_05/data/chapter_05_all_images_dir*
+Chapter_06/data/dataset/*
+Chapter_06/models/zoo/*
+Chapter_06/result/pytorch*
