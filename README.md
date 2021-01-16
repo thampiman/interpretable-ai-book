@@ -53,8 +53,8 @@ conda activate interpretable-ai
   - [Data](https://github.com/thampiman/interpretable-ai-book/tree/master/Chapter_05/data)
   - [Models](https://github.com/thampiman/interpretable-ai-book/tree/master/Chapter_05/models)
 - Chapter 6: Understanding Layers and Units
-  - Setup: Refer the readme on how to setup the network dissection framework
-  - Results: Refer the readme to download the network dissection results for certain pre-trained models
+  - Setup: Refer the [readme](https://github.com/thampiman/interpretable-ai-book/tree/master/Chapter_06/README.md) on how to setup the network dissection framework
+  - Results: Refer the [readme](https://github.com/thampiman/interpretable-ai-book/tree/master/Chapter_06/result/README.md) to download the network dissection results for certain pre-trained models
   - [Network Dissection](https://nbviewer.jupyter.org/github/thampiman/interpretable-ai-book/blob/master/Chapter_06/chapter_06_netdissect.ipynb)
   - [Visualize Network Dissection Results](https://nbviewer.jupyter.org/github/thampiman/interpretable-ai-book/blob/master/Chapter_06/chapter_06_netdissect_viz.ipynb)
 - Appendix A: PyTorch
