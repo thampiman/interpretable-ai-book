@@ -4,16 +4,42 @@ This repository contains Jupyter notebooks implementing the code samples found i
 
 ## Setup
 
-These notebooks use Python 3.7, scikit-learn 0.21.3 and PyTorch 1.4.0. You can create the conda environment from the `environment.yml` file as follows.
+### Conda Environment
+These notebooks use Python 3.7, scikit-learn 0.21.3 and PyTorch 1.4.0. You can install conda on your operating system by following the instructions on the [Conda website](https://conda.io/projects/conda/en/latest/user-guide/install/index.html). Once installed, you can create the conda environment from the `environment.yml` file as follows.
 
 ```
-conda env create -f environment.yml
+$> conda env create -f packages/environment.yml
 ```
 
 The environment name is `interpretable-ai` and it can be activated as follows.
 
 ```
-conda activate interpretable-ai
+$> conda activate interpretable-ai
+```
+
+You are now ready to run all the code in the book on Jupyter. From the repository directory downloaded on your machine, you can run the following command to start the Jupyter web application.
+
+```
+$> jupyter notebook
+```
+
+### Docker
+There are limitations with the Conda package/environment managed system. It sometimes does not work as expected across multiple operating systems, different versions of the same operating system or different hardware. If you do encounter issues while creating the conda environment detailed in the previous section, you can instead use Docker. Docker can be installed on your operating system by following the instructions on the [Docker website](https://www.docker.com/get-started). Once installed, you can then build the Docker image from command line by running the following command from the repository directory downloaded on your machine.
+
+```
+$> docker build . -t interpretable-ai
+```
+
+Note that the interpretable-ai tag is used for the Docker image. If the above command runs successfully, Docker should print the identifier of the image that was built. You can also view the details of the built image by running the following command.
+
+```
+$> docker images
+```
+
+Run the following command to run the Docker container using the built image and start the Jupyter web application.
+
+```
+$> docker run -p 8888:8888 interpretable-ai:latest
 ```
 
 ## Table of Contents
