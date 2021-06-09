@@ -83,6 +83,12 @@ $> docker run -p 8888:8888 interpretable-ai:latest
   - Results: Refer the [readme](https://github.com/thampiman/interpretable-ai-book/tree/master/Chapter_06/result/README.md) to download the network dissection results for certain pre-trained models
   - [Network Dissection](https://nbviewer.jupyter.org/github/thampiman/interpretable-ai-book/blob/master/Chapter_06/chapter_06_netdissect.ipynb)
   - [Visualize Network Dissection Results](https://nbviewer.jupyter.org/github/thampiman/interpretable-ai-book/blob/master/Chapter_06/chapter_06_netdissect_viz.ipynb)
+- Chapter 7: Understanding Semantic Similarity
+  - [Exploratory Data Analysis](https://nbviewer.jupyter.org/github/thampiman/interpretable-ai-book/blob/master/Chapter_07/chapter_07_imdb_eda.ipynb)
+  - [Principal Component Analysis (PCA)](https://nbviewer.jupyter.org/github/thampiman/interpretable-ai-book/blob/master/Chapter_07/chapter_07_glove_tsne.ipynb)
+  - [t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://nbviewer.jupyter.org/github/thampiman/interpretable-ai-book/blob/master/Chapter_07/chapter_07_glove_tsne.ipynb)
+  - [Data](https://github.com/thampiman/interpretable-ai-book/tree/master/Chapter_07/data)
+  - [Models](https://github.com/thampiman/interpretable-ai-book/tree/master/Chapter_07/models)
 - Appendix A: PyTorch
   - [Intro to PyTorch](https://nbviewer.jupyter.org/github/thampiman/interpretable-ai-book/blob/master/Appendix_A/appendix_a_pytorch.ipynb)
 - Chapter 7 (work in progress)
