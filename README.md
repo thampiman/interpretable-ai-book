@@ -89,7 +89,13 @@ $> docker run -p 8888:8888 interpretable-ai:latest
   - [t-Distributed Stochastic Neighbor Embedding (t-SNE)](https://nbviewer.jupyter.org/github/thampiman/interpretable-ai-book/blob/master/Chapter_07/chapter_07_glove_tsne.ipynb)
   - [Data](https://github.com/thampiman/interpretable-ai-book/tree/master/Chapter_07/data)
   - [Models](https://github.com/thampiman/interpretable-ai-book/tree/master/Chapter_07/models)
-- Appendix A: PyTorch
-  - [Intro to PyTorch](https://nbviewer.jupyter.org/github/thampiman/interpretable-ai-book/blob/master/Appendix_A/appendix_a_pytorch.ipynb)
-- Chapter 7 (work in progress)
-- Chapter 8 (work in progress)
+- Chapter 8: Fairness and Mitigating Bias
+  - [Exploratory Data Analysis](https://nbviewer.org/github/thampiman/interpretable-ai-book/blob/master/Chapter_08/chapter_08_eda.ipynb)
+  - [Training and Interpreting the Adult Income Model](https://nbviewer.org/github/thampiman/interpretable-ai-book/blob/master/Chapter_08/chapter_08_model.ipynb)
+  - [Fairness Analysis of Pre-Trained Models](https://nbviewer.org/github/thampiman/interpretable-ai-book/blob/master/Chapter_08/chapter_08_fairness.ipynb)
+  - [Data](https://github.com/thampiman/interpretable-ai-book/tree/master/Chapter_08/data)
+  - [Models](https://github.com/thampiman/interpretable-ai-book/tree/master/Chapter_08/models)
+- Chapter 9: Path to Explainable AI
+  - [Counterfactual Explanations](https://nbviewer.org/github/thampiman/interpretable-ai-book/blob/master/Chapter_09/chapter_09_dice.ipynb)
+- Appendix: PyTorch
+  - [Intro to PyTorch](https://nbviewer.org/github/thampiman/interpretable-ai-book/blob/master/Appendix_B/appendix_b_pytorch.ipynb)
